@@ -1,4 +1,5 @@
-👋 Hi, I’m Allen (Junsheng Shi)
+👋 Hi, I’m Allen
+
 I’m a quantitative machine learning engineer with a background in applied mathematics and a strong focus on AI innovation in finance and science. My work spans across domains—from classifying neural signals to predicting cosmic structures and uncovering patterns in financial systems—using a wide range of ML tools including graph learning, LLMs, and deep learning.
 
 I’m especially interested in building scalable, intelligent systems that combine cutting-edge ML research with robust engineering practices to solve real-world problems.
